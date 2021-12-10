@@ -1,6 +1,6 @@
 ### Hi there, I'm Misha 👋
 
-- I’m software engineer with 14+ years of experience
+- I’m software engineer with 15+ years of experience
 - I ❤️ Kotlin 
 - I spent most of my career in gamedev
 - Currently learning 🦀 and 🇬☁️
